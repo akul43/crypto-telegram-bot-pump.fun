@@ -29,7 +29,7 @@ headers = {
 
 # Define multiple wallet URLs
 wallet_urls = [
-    "https://www.pump.fun/profile/,
+    "https://www.pump.fun/profile/",
     "https://www.pump.fun/profile/",
     "https://www.pump.fun/profile/",
     # Add more wallet URLs as needed
