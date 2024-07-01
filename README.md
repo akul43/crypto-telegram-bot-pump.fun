@@ -10,23 +10,26 @@ This repository hosts a Python script designed to use Selenium WebDriver to chec
 
 ## Installation
 To use the Python script for monitoring the Pump.fun profile, follow these steps:
-(Make sure you have Mozilla Firefox installed in your machine)
+(Ensure you have Mozilla Firefox installed on your machine)
 
 1. **Clone the Repository**: Clone this repository to your local machine using:
-    { git clone https://github.com/akul43/crypto-telegram-bot-pump.fun.git }
+   ```
+   git clone https://github.com/akul43/crypto-telegram-bot-pump.fun.git
+   ```
 
-2. **Install Dependencies**: Navigate to the cloned directory and install the required dependencies using:
-    { npm install }
+2. **Install Dependencies**: Navigate to the cloned directory and ensure you have the necessary packages installed using:
+   ```
+   pip install -r requirements.txt
+   ```
 
-3. **Configuration**: Configure the script with any necessary settings, such as Telegram API keys and conversation ID.
+3. **Configuration**: Configure the script with necessary settings, such as Telegram API keys and conversation ID.
 
-4. **Run the Script**: Execute the main Python script to start monitoring the Pump.fun profile
-
+4. **Run the Script**: Execute the main Python script to start monitoring the Pump.fun profile.
 
 ## Usage
-1. **Start Monitoring**: Run the script to start monitoring the Pump.fun profile for new transactions.
-2. **Receive Notifications**: Receive notifications in real-time about any new transactions detected on the Pump.fun profile.
-3. **Customize Preferences**: Customize notification preferences and settings in the script as needed.
+1. **Start Monitoring**: Run the script to begin monitoring the Pump.fun profile for new transactions.
+2. **Receive Notifications**: Get real-time notifications about any new transactions detected on the Pump.fun profile.
+3. **Customize Preferences**: Modify notification preferences and settings within the script as required.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:

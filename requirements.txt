@@ -1,0 +1,4 @@
+selenium
+beautifulsoup4
+loguru
+python-telegram-bot
